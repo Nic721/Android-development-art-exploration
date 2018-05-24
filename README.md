@@ -4,4 +4,5 @@
 |源码|知识点|
 |:--:|:--:|
 |Binder|2.3.3 Binder|
-|Mybinder|手动实现Binder|
+|Mybinder|2.3.3 手动实现Binder|
+|Fileshare|2.4.2 使用文件共享|

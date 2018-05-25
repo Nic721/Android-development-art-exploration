@@ -1,1 +1,1 @@
-include ':Binder', ':Mybinder', ':Fileshare'
+include ':Binder', ':Mybinder', ':Fileshare', ':Messenger'

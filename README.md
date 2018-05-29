@@ -8,3 +8,4 @@
 |Fileshare|2.4.2 使用文件共享|
 |Messenger|2.4.3 使用Messenger|
 |AIDL|2.4.4 使用AIDL|
+|ContentProvider|2.4.5 使用ContentProvider|

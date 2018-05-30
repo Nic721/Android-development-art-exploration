@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BinderPool</string>
+
+    <string name="hello_world">hello_world</string>
+</resources>

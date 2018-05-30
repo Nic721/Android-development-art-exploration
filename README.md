@@ -10,3 +10,4 @@
 |AIDL|2.4.4 使用AIDL|
 |ContentProvider|2.4.5 使用ContentProvider|
 |Socket|2.4.6 使用Socket|
+|BinderPool|2.5 Binder线程池|

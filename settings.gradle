@@ -1,1 +1,1 @@
-include ':Binder', ':Mybinder', ':Fileshare', ':Messenger', ':AIDL', ':ContentProvider', ':Socket'
+include ':Binder', ':Mybinder', ':Fileshare', ':Messenger', ':AIDL', ':ContentProvider', ':Socket', ':BinderPool'

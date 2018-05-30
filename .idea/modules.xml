@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AIDL/AIDL.iml" filepath="$PROJECT_DIR$/AIDL/AIDL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Androiddevelopmentartexploration.iml" filepath="$PROJECT_DIR$/Androiddevelopmentartexploration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binder/Binder.iml" filepath="$PROJECT_DIR$/Binder/Binder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinderPool/BinderPool.iml" filepath="$PROJECT_DIR$/BinderPool/BinderPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentProvider/ContentProvider.iml" filepath="$PROJECT_DIR$/ContentProvider/ContentProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fileshare/Fileshare.iml" filepath="$PROJECT_DIR$/Fileshare/Fileshare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Messenger/Messenger.iml" filepath="$PROJECT_DIR$/Messenger/Messenger.iml" />

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fileshare/Fileshare.iml" filepath="$PROJECT_DIR$/Fileshare/Fileshare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Messenger/Messenger.iml" filepath="$PROJECT_DIR$/Messenger/Messenger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mybinder/Mybinder.iml" filepath="$PROJECT_DIR$/Mybinder/Mybinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
     </modules>
   </component>
 </project>

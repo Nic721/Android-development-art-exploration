@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/Fileshare" />
             <option value="$PROJECT_DIR$/Messenger" />
             <option value="$PROJECT_DIR$/Mybinder" />
+            <option value="$PROJECT_DIR$/Socket" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
